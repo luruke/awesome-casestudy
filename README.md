@@ -22,6 +22,8 @@ behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [Case study of I-Remember.fr](http://blog.edankwan.com/post/case-study-of-i-remember-fr)
 
+[Case study – Night Eye](http://blog.bongiovi.tw/case-study-night-eye/)
+
 [Chrome Music Lab: Making ‘Kandinsky’](https://medium.com/@activetheory/chrome-music-lab-making-kandinsky-7de5ab04f4fe#.x3vkidwve)
 
 [Discover your Patronus](https://medium.com/@activetheory/discover-your-patronus-348971420487#.f6fkzwz9t)
