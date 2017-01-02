@@ -50,6 +50,8 @@ behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [The Hobbit Experience](https://www.html5rocks.com/en/tutorials/casestudies/hobbit/)
 
+[The Legend of IceCoon case study](https://medium.com/@Samsy/the-legend-of-icecoon-case-study-advanced-webgl-first-part-185742e82429)
+
 [The MoviePass Quest](https://m.makemepulse.com/the-moviepass-quest-c395e656a813#.hza55d6o8)
 
 [Through the Dark: A creative, technical and emotional journey](https://medium.com/@hamishstewart/
