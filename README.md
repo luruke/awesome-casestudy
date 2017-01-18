@@ -32,6 +32,8 @@ behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [Finding Love](https://medium.com/@activetheory/finding-love-b4cf6727721b#.9e2vc6aq0)
 
+[Fixing HTML Video on Mobile](https://medium.com/this-also/whitewater-9b47f1e32ffe#.9nnnqhobc)
+
 [How I Fight: Stand Up To Cancer](https://medium.com/@activetheory/how-i-fight-stand-up-to-cancer-cf0ab227b44e#.cxts1dxvk)
 
 [Intangible Matter](http://www.stinkdigital.com/work/the-fifth-sense-intangible-matter)
