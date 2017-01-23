@@ -5,6 +5,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 # List
 
+[A Case Study on Boosting Front-End Performance](https://css-tricks.com/case-study-boosting-front-end-performance/)
+
 [Audiograph](https://mattdesl.svbtle.com/audiograph)
 
 [Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/
