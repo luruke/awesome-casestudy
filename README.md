@@ -7,8 +7,7 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Audiograph](https://mattdesl.svbtle.com/audiograph)
 
-[Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/
-behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
+[Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [Billie Deer](http://brunoimbrizi.com/unbox/2016/12/billie-deer/)
 
@@ -68,10 +67,11 @@ behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [The Nightlight — A VR experience](https://m.makemepulse.com/the-nightlight-a-vr-experience-3f31a72835e7)
 
-[Through the Dark: A creative, technical and emotional journey](https://medium.com/@hamishstewart/
-through-the-dark-a-creative-technical-and-emotional-journey-daffecea1744#.468prz73n)
+[Through the Dark: A creative, technical and emotional journey](https://medium.com/@hamishstewart/through-the-dark-a-creative-technical-and-emotional-journey-daffecea1744#.468prz73n)
 
 [Vitasnella | Full body projection mapping](https://medium.com/@silviopaganini/vitasnella-full-body-projection-mapping-daea4cf53dfe#.8v4ra7t85)
+
+[Virgin America Case Study](https://work.co/virgin-america/)
 
 [Wind Waker Graphics Analysis](https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127#.ngux2j51n)
 
