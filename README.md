@@ -68,6 +68,8 @@ behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [The Nightlight — A VR experience](https://m.makemepulse.com/the-nightlight-a-vr-experience-3f31a72835e7)
 
+[The technology behind preview photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/)
+
 [Through the Dark: A creative, technical and emotional journey](https://medium.com/@hamishstewart/
 through-the-dark-a-creative-technical-and-emotional-journey-daffecea1744#.468prz73n)
 
