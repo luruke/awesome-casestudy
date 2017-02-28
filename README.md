@@ -5,6 +5,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 # List
 
+[AiMEN, the Pontifical Artificial Intelligence](https://m.makemepulse.com/aimen-the-pontifical-artificial-intelligence-bf02dcb3fd1a)
+
 [Audiograph](https://mattdesl.svbtle.com/audiograph)
 
 [Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/
