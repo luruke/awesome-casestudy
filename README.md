@@ -9,8 +9,7 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Audiograph](https://mattdesl.svbtle.com/audiograph)
 
-[Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/
-behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
+[Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [Billie Deer](http://brunoimbrizi.com/unbox/2016/12/billie-deer/)
 
@@ -55,6 +54,8 @@ behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 [Neve: WebGL and VR](https://medium.com/@activetheory/neve-webgl-and-vr-d42a25856d67#.rrrba7ih1)
 
 [Night Eyes: case study](https://medium.com/@mad_clem/night-eyes-case-study-19eb54068379#.d5y5ceox2)
+
+[Operation crea carte](http://dataveyes.com/#!/en/case-studies/operation-crea-carte)
 
 [Pablo the Flamingo](https://medium.com/@gordonnl/pablo-the-flamingo-75a21bf8ea12#.l6swlfqz7)
 
