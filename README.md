@@ -77,8 +77,7 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [The technology behind preview photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/)
 
-[Through the Dark: A creative, technical and emotional journey](https://medium.com/@hamishstewart/
-through-the-dark-a-creative-technical-and-emotional-journey-daffecea1744#.468prz73n)
+[Through the Dark: A creative, technical and emotional journey](https://medium.com/@hamishstewart/through-the-dark-a-creative-technical-and-emotional-journey-daffecea1744#.468prz73n)
 
 [Vitasnella | Full body projection mapping](https://medium.com/@silviopaganini/vitasnella-full-body-projection-mapping-daea4cf53dfe#.8v4ra7t85)
 
