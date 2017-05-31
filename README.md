@@ -11,6 +11,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Audiograph](https://mattdesl.svbtle.com/audiograph)
 
+[Behind the scenes of For Honor Scars](https://m.makemepulse.com/behind-the-scenes-of-for-honor-scars-cbb800c6e05f)
+
 [Behind the Tech of Cavalier: Conqueror of Excellence](https://medium.com/your-majesty-co/behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9#.gwtxrh77j)
 
 [Billie Deer](http://brunoimbrizi.com/unbox/2016/12/billie-deer/)
