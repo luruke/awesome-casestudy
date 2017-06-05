@@ -17,6 +17,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Billie Deer](http://brunoimbrizi.com/unbox/2016/12/billie-deer/)
 
+[Bubbles I/O 2017](https://medium.com/@activetheory/bubbles-i-o-2017-e52171516b93)
+
 [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883)
 
 [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.g1uacn2cz)
