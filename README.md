@@ -47,6 +47,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [How I Fight: Stand Up To Cancer](https://medium.com/@activetheory/how-i-fight-stand-up-to-cancer-cf0ab227b44e#.cxts1dxvk)
 
+[How We Resurrected a Dragon](https://source.opennews.org/articles/resurrecting-dragon/)
+
 [Intangible Matter](http://www.stinkdigital.com/work/the-fifth-sense-intangible-matter)
 
 [La plus GRANDE cave à bières du monde](https://medium.com/@MerciMichel/la-plus-grande-cave-%C3%A0-bi%C3%A8res-du-monde-c2db691104a5#.e33rhcifm)
