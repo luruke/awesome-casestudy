@@ -35,6 +35,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Chrome Music Lab: Making ‘Kandinsky’](https://medium.com/@activetheory/chrome-music-lab-making-kandinsky-7de5ab04f4fe#.x3vkidwve)
 
+[Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+
 [Dance Tonite](https://developers.google.com/web/showcase/2017/dance-tonite)
 
 [Discover your Patronus](https://medium.com/@activetheory/discover-your-patronus-348971420487#.f6fkzwz9t)
