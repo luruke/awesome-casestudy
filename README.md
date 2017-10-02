@@ -91,6 +91,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Vitasnella | Full body projection mapping](https://medium.com/@silviopaganini/vitasnella-full-body-projection-mapping-daea4cf53dfe#.8v4ra7t85)
 
+[Welcome to Hogwarts](https://medium.com/@activetheory/hogwarts-a66678d66283)
+
 [Wind Waker Graphics Analysis](https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127#.ngux2j51n)
 
 [Workflow: Applying Progressive - Enhancement on a WebVR project](https://unboring.net/workflows/progressive-enhancement/)
