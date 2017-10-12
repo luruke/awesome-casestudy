@@ -23,6 +23,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.g1uacn2cz)
 
+[Bringing Google Earth to Expeditions with Seurat](https://www.blog.google/products/google-vr/bringing-google-earth-expeditions-seurat/)
+
 [Camera Game](https://medium.com/@gordonnl/camera-game-8a2b013baf81#.ljwkp3wul)
 
 [Case Study: Building Racer](https://www.html5rocks.com/en/tutorials/casestudies/racer/)
