@@ -53,6 +53,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [From Concept Prototyping to Production in a Creative Studio](https://medium.com/lusion-ltd/from-concept-prototyping-to-production-in-a-creative-studio-f2083e96c4b9)
 
+[Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f)
+
 [How I Fight: Stand Up To Cancer](https://medium.com/@activetheory/how-i-fight-stand-up-to-cancer-cf0ab227b44e#.cxts1dxvk)
 
 [How We Resurrected a Dragon](https://source.opennews.org/articles/resurrecting-dragon/)
