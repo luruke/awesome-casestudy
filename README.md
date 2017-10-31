@@ -55,6 +55,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f)
 
+[How I built a wind map with WebGL](https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f)
+
 [How I Fight: Stand Up To Cancer](https://medium.com/@activetheory/how-i-fight-stand-up-to-cancer-cf0ab227b44e#.cxts1dxvk)
 
 [How We Resurrected a Dragon](https://source.opennews.org/articles/resurrecting-dragon/)
