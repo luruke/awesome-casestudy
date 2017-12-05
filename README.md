@@ -71,6 +71,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [My First Christmas Experiment](http://blog.edankwan.com/post/my-first-christmas-experiment)
 
+[Neon — A WebGL Installation](https://medium.com/@activetheory/neon-a-webgl-installation-fdf540c42152)
+
 [Neve: WebGL and VR](https://medium.com/@activetheory/neve-webgl-and-vr-d42a25856d67#.rrrba7ih1)
 
 [Night Eyes: case study](https://medium.com/@mad_clem/night-eyes-case-study-19eb54068379#.d5y5ceox2)
