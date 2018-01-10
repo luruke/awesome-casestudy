@@ -37,6 +37,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Chrome Music Lab: Making ‘Kandinsky’](https://medium.com/@activetheory/chrome-music-lab-making-kandinsky-7de5ab04f4fe#.x3vkidwve)
 
+[Codevember breakdowns](https://medium.com/@bongiovi015/codevember-breakdowns-part-1-shadow-mapping-f90d05179134)
+
 [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
 
 [Dance Tonite](https://developers.google.com/web/showcase/2017/dance-tonite)
