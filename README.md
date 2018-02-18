@@ -69,6 +69,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Land Lines](https://developers.google.com/web/showcase/2016/land-lines)
 
+[Making a Monster](https://medium.com/@stinkstudios/making-a-monster-37e9d301e21b)
+
 [MountainDew x TitanFall Technical Review](https://medium.com/@VilledieuMorgan/mountaindew-x-titanfall-technical-review-35f1be4089c#.3rhg8i63x)
 
 [My First Christmas Experiment](http://blog.edankwan.com/post/my-first-christmas-experiment)
