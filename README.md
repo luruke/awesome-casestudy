@@ -61,6 +61,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [How I Fight: Stand Up To Cancer](https://medium.com/@activetheory/how-i-fight-stand-up-to-cancer-cf0ab227b44e#.cxts1dxvk)
 
+[How we built a pinball](https://medium.com/@MerciMichel/ouigo-lets-play-case-study-b763f69dd89c)
+
 [How We Resurrected a Dragon](https://source.opennews.org/articles/resurrecting-dragon/)
 
 [Intangible Matter](http://www.stinkdigital.com/work/the-fifth-sense-intangible-matter)
