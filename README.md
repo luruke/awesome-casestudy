@@ -41,6 +41,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
 
+[Daily Scraps, Technical Case Study](https://medium.com/watsondg/daily-scraps-technical-case-study-e0944f884365)
+
 [Dance Tonite](https://developers.google.com/web/showcase/2017/dance-tonite)
 
 [Discover your Patronus](https://medium.com/@activetheory/discover-your-patronus-348971420487#.f6fkzwz9t)
