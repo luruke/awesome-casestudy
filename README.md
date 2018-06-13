@@ -85,6 +85,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Night Eyes: case study](https://medium.com/@mad_clem/night-eyes-case-study-19eb54068379#.d5y5ceox2)
 
+[Oat the Goat](http://assemblyltd.com/devnotes/2018/05/otg1-beginnings/)
+
 [Operation crea carte](http://dataveyes.com/#!/en/case-studies/operation-crea-carte)
 
 [Pablo the Flamingo](https://medium.com/@gordonnl/pablo-the-flamingo-75a21bf8ea12#.l6swlfqz7)
