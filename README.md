@@ -9,6 +9,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [AiMEN, the Pontifical Artificial Intelligence](https://m.makemepulse.com/aimen-the-pontifical-artificial-intelligence-bf02dcb3fd1a)
 
+[Airdrop — Technical casestudy.](https://medium.com/epicagency/airdrop-technical-casestudy-bafabf2f8c1e)
+
 [Audiograph](https://mattdesl.svbtle.com/audiograph)
 
 [Behind the scenes of For Honor Scars](https://m.makemepulse.com/behind-the-scenes-of-for-honor-scars-cbb800c6e05f)
@@ -40,6 +42,8 @@ Do not hesitate to create a pull request if you have some links to add!
 [Codevember breakdowns](https://medium.com/@bongiovi015/codevember-breakdowns-part-1-shadow-mapping-f90d05179134)
 
 [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+
+[Creating ‘Qalam’](https://medium.com/@stinkstudios/creating-qalam-d016a0a52d56)
 
 [Daily Scraps, Technical Case Study](https://medium.com/watsondg/daily-scraps-technical-case-study-e0944f884365)
 
@@ -74,6 +78,8 @@ Do not hesitate to create a pull request if you have some links to add!
 [Land Lines](https://developers.google.com/web/showcase/2016/land-lines)
 
 [Making a Monster](https://medium.com/@stinkstudios/making-a-monster-37e9d301e21b)
+
+[Making Stinkmoji](https://medium.com/@stinkstudios/how-we-made-stinkmoji-1496856eb195)
 
 [MountainDew x TitanFall Technical Review](https://medium.com/@VilledieuMorgan/mountaindew-x-titanfall-technical-review-35f1be4089c#.3rhg8i63x)
 
