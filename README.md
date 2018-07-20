@@ -23,6 +23,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883)
 
+[Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1)
+
 [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.g1uacn2cz)
 
 [Bringing Google Earth to Expeditions with Seurat](https://www.blog.google/products/google-vr/bringing-google-earth-expeditions-seurat/)
