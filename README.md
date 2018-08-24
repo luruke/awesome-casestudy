@@ -87,6 +87,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [My First Christmas Experiment](http://blog.edankwan.com/post/my-first-christmas-experiment)
 
+[NASA JPL: Open Source Rover](https://medium.com/@activetheory/nasa-jpl-open-source-rover-9d2b8790beaf)
+
 [Neon — A WebGL Installation](https://medium.com/@activetheory/neon-a-webgl-installation-fdf540c42152)
 
 [Neve: WebGL and VR](https://medium.com/@activetheory/neve-webgl-and-vr-d42a25856d67#.rrrba7ih1)
