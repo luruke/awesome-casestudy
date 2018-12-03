@@ -103,6 +103,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Oat the Goat](http://assemblyltd.com/devnotes/2018/05/otg1-beginnings/)
 
+[Ocean School — Technical Case Study](https://medium.com/@akufen/ocean-school-technical-case-study-ae391656b7ab)
+
 [Operation crea carte](http://dataveyes.com/#!/en/case-studies/operation-crea-carte)
 
 [Pablo the Flamingo](https://medium.com/@gordonnl/pablo-the-flamingo-75a21bf8ea12#.l6swlfqz7)
