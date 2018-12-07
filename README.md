@@ -1,5 +1,3 @@
-# Awesome Case-study
-
 # 2018
 Dec 07, 2018 - [Case Study: The Dime Trap](https://medium.com/superhero-cheesecake/case-study-the-dime-trap-900ee4d29bf7) by [@tastysuperhero](https://twitter.com/tastysuperhero)
 
