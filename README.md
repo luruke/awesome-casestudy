@@ -120,7 +120,7 @@ Jul 23, 2015 - [Vitasnella | Full body projection mapping](https://medium.com/@s
 
 May 01, 2015 - [Operation crea carte](http://dataveyes.com/#!/en/case-studies/operation-crea-carte) by [@dataveyes](https://twitter.com/dataveyes)
 
-#2014
+# 2014
 Dec 08, 2014 - [Finding Home](https://medium.com/@michaeltheory/finding-home-d0328ca92d21#.y84d0a62t) by [@michaeltheory](https://twitter.com/michaeltheory)
 
 Oct 13, 2014 - [Pablo the Flamingo](https://medium.com/@gordonnl/pablo-the-flamingo-75a21bf8ea12#.l6swlfqz7) by [@gordonnl](https://twitter.com/gordonnl)
