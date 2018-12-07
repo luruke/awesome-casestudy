@@ -39,6 +39,8 @@ Do not hesitate to create a pull request if you have some links to add!
 
 [Case Study: Find Your Way to Oz](https://www.html5rocks.com/en/tutorials/casestudies/oz/)
 
+[Case Study: The Dime Trap](https://medium.com/superhero-cheesecake/case-study-the-dime-trap-900ee4d29bf7)
+
 [Case study of I-Remember.fr](http://blog.edankwan.com/post/case-study-of-i-remember-fr)
 
 [Case study – Night Eye](http://blog.bongiovi.tw/case-study-night-eye/)
