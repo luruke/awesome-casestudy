@@ -1,4 +1,6 @@
 # 2018
+Dec 11, 2018 - [Kekubian Assassin Technical Insight](https://medium.com/resn/kekubian-assassin-technical-insight-a401717550d) by [@jesper_vos](https://twitter.com/jesper_vos) / [@KMkota0](https://twitter.com/KMkota0) / [@resn_has_no_i](https://twitter.com/resn_has_no_i)
+
 Dec 07, 2018 - [Case Study: The Dime Trap](https://medium.com/superhero-cheesecake/case-study-the-dime-trap-900ee4d29bf7) by [@tastysuperhero](https://twitter.com/tastysuperhero)
 
 Nov 29, 2018 - [Ocean School — Technical Case Study](https://medium.com/@akufen/ocean-school-technical-case-study-ae391656b7ab) by [@akufen](https://twitter.com/akufen)
