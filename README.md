@@ -1,4 +1,7 @@
 # 2018
+Dec 18, 2018 - [Spotify Wrapped 2018 — Technical Case Study
+](https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a) by [@active_theory](https://twitter.com/active_theory)
+
 Dec 11, 2018 - [Kekubian Assassin Technical Insight](https://medium.com/resn/kekubian-assassin-technical-insight-a401717550d) by [@jesper_vos](https://twitter.com/jesper_vos) / [@KMkota0](https://twitter.com/KMkota0) / [@resn_has_no_i](https://twitter.com/resn_has_no_i)
 
 Dec 07, 2018 - [Case Study: The Dime Trap](https://medium.com/superhero-cheesecake/case-study-the-dime-trap-900ee4d29bf7) by [@tastysuperhero](https://twitter.com/tastysuperhero)
