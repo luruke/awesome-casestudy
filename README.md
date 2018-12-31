@@ -1,4 +1,7 @@
 # 2018
+
+Dec 21, 2018 - [Resn’s Little HelpAR](https://medium.com/@resn_has_no_i/resns-little-helpar-48618976c336) by [@resn_has_no_i](https://twitter.com/resn_has_no_i)
+
 Dec 18, 2018 - [Spotify Wrapped 2018 — Technical Case Study
 ](https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a) by [@active_theory](https://twitter.com/active_theory)
 
