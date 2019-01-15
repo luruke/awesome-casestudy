@@ -1,3 +1,7 @@
+# 2019
+
+Jan 14, 2019 - [Twenty Øne Piløts](https://www.awwwards.com/twenty-one-pilots-bandito-from-resn-wins-site-of-the-month-december.html) by [@resn_has_no_i](https://twitter.com/resn_has_no_i) 
+
 # 2018
 
 Dec 21, 2018 - [Resn’s Little HelpAR](https://medium.com/@resn_has_no_i/resns-little-helpar-48618976c336) by [@resn_has_no_i](https://twitter.com/resn_has_no_i)
