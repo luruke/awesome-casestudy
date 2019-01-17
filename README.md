@@ -1,6 +1,6 @@
 # 2019
 
-Jan 14, 2019 - [Twenty Øne Piløts](https://www.awwwards.com/twenty-one-pilots-bandito-from-resn-wins-site-of-the-month-december.html) by [@resn_has_no_i](https://twitter.com/resn_has_no_i) 
+Jan 17, 2019 - [Twenty Øne Piløts](https://medium.com/resn/bandit%C3%B8-immersive-experience-f258361dead3) by [@jesper_vos](https://twitter.com/jesper_vos) / [@resn_has_no_i](https://twitter.com/resn_has_no_i) 
 
 # 2018
 
