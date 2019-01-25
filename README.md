@@ -1,5 +1,7 @@
 # 2019
 
+Jan 25, 2019 - [Adult Swim Singles 2018](https://medium.com/@activetheory/adult-swim-singles-2018-case-study-e19349ecbfb3) by [@active_theory](https://twitter.com/active_theory)
+
 Jan 17, 2019 - [Twenty Øne Piløts](https://medium.com/resn/bandit%C3%B8-immersive-experience-f258361dead3) by [@jesper_vos](https://twitter.com/jesper_vos) / [@resn_has_no_i](https://twitter.com/resn_has_no_i) 
 
 # 2018
