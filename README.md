@@ -1,4 +1,6 @@
 # 2019
+Feb 12, 2019 - [Acura Total Control — Case Study](https://medium.com/@activetheory/acura-total-control-case-study-9e12037b944e) by [@active_theory](https://twitter.com/active_theory)
+
 Jan 30, 2019 - [Taotajima.jp WebGL deconstruction](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed) by [@akella](https://twitter.com/akella)
 
 Jan 25, 2019 - [Adult Swim Singles 2018](https://medium.com/@activetheory/adult-swim-singles-2018-case-study-e19349ecbfb3) by [@active_theory](https://twitter.com/active_theory)
