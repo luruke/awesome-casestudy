@@ -1,4 +1,6 @@
 # 2019
+Apr 29, 2019 - [https://medium.com/@isaaclandoncohen/the-anatomy-of-a-jellyfish-5fa9337fcd92](https://medium.com/@isaaclandoncohen/the-anatomy-of-a-jellyfish-5fa9337fcd92) by [@Cabbibo] 
+
 Apr 17, 2019 - [NXGN](https://parall.ax/blog/view/3293/making-of-nxgn-an-interactive-webgl-site) by [@parallax](https://twitter.com/parallax)
 
 Mar 12, 2019 - [Orano Innovations website](https://medium.com/@hello_11138/orano-case-study-36dbb465b6cc) by [@Immersive_g](https://twitter.com/Immersive_g)
