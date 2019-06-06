@@ -1,5 +1,5 @@
 # 2019
-Apr 29, 2019 - [The Anatomy of a Jellyfish](https://medium.com/@isaaclandoncohen/the-anatomy-of-a-jellyfish-5fa9337fcd92) by [@Cabbibo] 
+Apr 29, 2019 - [The Anatomy of a Jellyfish](https://medium.com/@isaaclandoncohen/the-anatomy-of-a-jellyfish-5fa9337fcd92) by [@Cabbibo](https://twitter.com/Cabbibo)
 
 Apr 17, 2019 - [NXGN](https://parall.ax/blog/view/3293/making-of-nxgn-an-interactive-webgl-site) by [@parallax](https://twitter.com/parallax)
 
