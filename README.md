@@ -164,3 +164,7 @@ Feb 5, 2013 - [Case Study: Find Your Way to Oz](https://www.html5rocks.com/en/tu
 
 # 2012
 Mar 26, 2012 - [Watercolor Process](https://hi.stamen.com/watercolor-process-3dd5135861fe) by [@grayareaorg](https://twitter.com/grayareaorg)
+
+
+# 2010
+Dec 25, 2010 - [Cindermedusae - Making Generative Creatures](http://marcinignac.com/blog/cindermedusae-making-generative-creatures/) by [@marcinignac](https://twitter.com/marcinignac)
