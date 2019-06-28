@@ -1,4 +1,6 @@
 # 2019
+Jun 28, 2019 - [Stonewall Forever](https://medium.com/@Danetag/stonewall-forever-94f359c6390) by [@Danetag](https://twitter.com/Danetag)
+
 Jun 17, 2019 - [Case Study of Lusion](https://www.awwwards.com/case-study-for-lusion-by-lusion-winner-of-site-of-the-month-may.html) by [@lusionltd](https://twitter.com/lusionltd)
 
 Apr 29, 2019 - [The Anatomy of a Jellyfish](https://medium.com/@isaaclandoncohen/the-anatomy-of-a-jellyfish-5fa9337fcd92) by [@Cabbibo](https://twitter.com/Cabbibo)
