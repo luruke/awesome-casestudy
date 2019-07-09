@@ -1,4 +1,6 @@
 # 2019
+Jul 3, 2019 - [Netflix: Our Planet](https://medium.com/active-theory/netflix-our-planet-b61948b34486) by [@active_theory](https://twitter.com/active_theory)
+
 Jun 28, 2019 - [Stonewall Forever](https://medium.com/@Danetag/stonewall-forever-94f359c6390) by [@Danetag](https://twitter.com/Danetag)
 
 Jun 17, 2019 - [Case Study of Lusion](https://www.awwwards.com/case-study-for-lusion-by-lusion-winner-of-site-of-the-month-may.html) by [@lusionltd](https://twitter.com/lusionltd)
