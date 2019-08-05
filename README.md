@@ -1,4 +1,6 @@
 # 2019
+Aug 5, 2019 - [Prior Holdings experience case study.](https://medium.com/@hello_11138/prior-holdings-experience-case-study-8c4be7a95281) by [@Immersive_g](https://twitter.com/Immersive_g)
+
 Jul 16, 2019 - [Thorne: The Frontier Within](https://medium.com/active-theory/thorne-the-frontier-within-7c97f8a49719) by [@active_theory](https://twitter.com/active_theory)
 
 Jul 03, 2019 - [Netflix: Our Planet](https://medium.com/active-theory/netflix-our-planet-b61948b34486) by [@active_theory](https://twitter.com/active_theory)
