@@ -140,6 +140,8 @@ Jun 01, 2016 - [Renault Megane Experience](https://m.makemepulse.com/renault-meg
 
 Apr 19, 2016 - [The MoviePass Quest](https://m.makemepulse.com/the-moviepass-quest-c395e656a813#.hza55d6o8) by [@falgan](https://twitter.com/falgan) / [@makemepulse](https://twitter.com/makemepulse)
 
+Apr 19, 2016 - [Virtual Art Sessions](https://developers.google.com/web/showcase/2016/art-sessions) by [@jeffnusz](https://twitter.com/jeffnusz) / [@mflux](https://twitter.com/mflux) / [@google](https://twitter.com/google)
+
 Mar 09, 2016 - [Chrome Music Lab: Making ‘Kandinsky’](https://medium.com/@activetheory/chrome-music-lab-making-kandinsky-7de5ab04f4fe#.x3vkidwve) by [@active_theory](https://twitter.com/active_theory)
 
 Jan 25, 2016 - [Neve: WebGL and VR](https://medium.com/@activetheory/neve-webgl-and-vr-d42a25856d67#.rrrba7ih1) by [@active_theory](https://twitter.com/active_theory)
