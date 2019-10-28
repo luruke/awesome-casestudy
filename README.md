@@ -1,7 +1,9 @@
 # 2019
-Oct 9, 2019 - [Journey’s Sand Shader](https://www.alanzucconi.com/2019/10/08/journey-sand-shader-1/) by [@Alan Zucconi](https://twitter.com/AlanZucconi)
+Oct 28, 2019 - [Behind the scenes of We Cargo](https://medium.com/@luruke/behind-the-scenes-of-we-cargo-3999f5f559c) by [@luruke](https://twitter.com/luruke)
 
-Aug 5, 2019 - [Prior Holdings experience case study.](https://medium.com/@hello_11138/prior-holdings-experience-case-study-8c4be7a95281) by [@Immersive_g](https://twitter.com/Immersive_g)
+Oct 09, 2019 - [Journey’s Sand Shader](https://www.alanzucconi.com/2019/10/08/journey-sand-shader-1/) by [@Alan Zucconi](https://twitter.com/AlanZucconi)
+
+Aug 05, 2019 - [Prior Holdings experience case study.](https://medium.com/@hello_11138/prior-holdings-experience-case-study-8c4be7a95281) by [@Immersive_g](https://twitter.com/Immersive_g)
 
 Jul 16, 2019 - [Thorne: The Frontier Within](https://medium.com/active-theory/thorne-the-frontier-within-7c97f8a49719) by [@active_theory](https://twitter.com/active_theory)
 
