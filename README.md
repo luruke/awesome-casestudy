@@ -1,5 +1,5 @@
 # 2019
-Oct 28, 2019 - [Behind the scenes of We Cargo](https://medium.com/@luruke/behind-the-scenes-of-we-cargo-3999f5f559c) by [@luruke](https://twitter.com/luruke)
+Oct 28, 2019 - [Behind the scenes of We Cargo](https://medium.com/epicagency/behind-the-scenes-of-we-cargo-3999f5f559c) by [@luruke](https://twitter.com/luruke)
 
 Oct 09, 2019 - [Journey’s Sand Shader](https://www.alanzucconi.com/2019/10/08/journey-sand-shader-1/) by [@Alan Zucconi](https://twitter.com/AlanZucconi)
 
