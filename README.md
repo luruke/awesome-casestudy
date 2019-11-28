@@ -1,4 +1,6 @@
 # 2019
+Nov 28, 2019 - [IBM Technology Garden](https://notes.variable.io/case-study-ibm-technology-garden-3a4f0b274de5) by [@variable_io](https://twitter.com/variable_io)
+
 Nov 13, 2019 - [Bruno Simon — Portfolio](https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b) by [@bruno_simon](https://twitter.com/bruno_simon)
 
 Oct 28, 2019 - [Behind the scenes of We Cargo](https://medium.com/epicagency/behind-the-scenes-of-we-cargo-3999f5f559c) by [@luruke](https://twitter.com/luruke)
