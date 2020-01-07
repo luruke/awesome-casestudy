@@ -1,9 +1,15 @@
 # 2019
+Dec 30, 2019 - [Akaru 2019](https://tympanus.net/codrops/2019/12/30/case-study-akaru-2019/) by [@ColinPeyrat](https://twitter.com/ColinPeyrat) and [@jfranzese](https://twitter.com/jfranzese_)
+
+Dec 18, 2019 - [Portfolio of Bruno Arizio](https://tympanus.net/codrops/2019/12/18/case-study-portfolio-of-bruno-arizio/) by [@BrunoArizio](https://twitter.com/brunoarizio) and [@lhbzr](https://twitter.com/lhbzr)
+
 Nov 28, 2019 - [IBM Technology Garden](https://notes.variable.io/case-study-ibm-technology-garden-3a4f0b274de5) by [@variable_io](https://twitter.com/variable_io)
 
 Nov 13, 2019 - [Bruno Simon — Portfolio](https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b) by [@bruno_simon](https://twitter.com/bruno_simon)
 
 Oct 28, 2019 - [Behind the scenes of We Cargo](https://medium.com/epicagency/behind-the-scenes-of-we-cargo-3999f5f559c) by [@luruke](https://twitter.com/luruke)
+
+Oct 16, 2019 - [Chang Liu Portfolio V4](https://tympanus.net/codrops/2019/10/16/case-study-chang-liu-portfolio-v4/) by [@shampliu](https://twitter.com/shampliu)
 
 Oct 09, 2019 - [Journey’s Sand Shader](https://www.alanzucconi.com/2019/10/08/journey-sand-shader-1/) by [@Alan Zucconi](https://twitter.com/AlanZucconi)
 
