@@ -1,3 +1,6 @@
+# 2020
+Jan 06, 2020 - [MaxMara Bearing Gifts](https://lusion.co/work/maxmara-bearing-gifts) by [@lusionltd](https://twitter.com/lusionltd)
+
 # 2019
 Dec 30, 2019 - [Akaru 2019](https://tympanus.net/codrops/2019/12/30/case-study-akaru-2019/) by [@ColinPeyrat](https://twitter.com/ColinPeyrat) and [@jfranzese](https://twitter.com/jfranzese_)
 
