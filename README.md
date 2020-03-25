@@ -1,4 +1,6 @@
 # 2020
+Mar 25, 2020 - [Fiomet](https://medium.com/active-theory/fiomet-case-study-9a0180268423) by [@active_theory](https://twitter.com/active_theory)
+
 Jan 24, 2020 - [The turn of the screw trailer](https://lusion.co/work/the-turn-of-the-screw-trailer/) by [@lusionltd](https://twitter.com/lusionltd)
 
 Jan 06, 2020 - [MaxMara Bearing Gifts](https://lusion.co/work/maxmara-bearing-gifts) by [@lusionltd](https://twitter.com/lusionltd)
