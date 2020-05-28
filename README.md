@@ -1,4 +1,6 @@
 # 2020
+May 28, 2020 - [Spotify - Listening Together](https://medium.com/@activetheory/listening-together-2e676f5e7201) by [@active_theory](https://twitter.com/active_theory)
+
 Apr 15, 2020 - [How We Built a Playful WebGL Experience for 100 FWA Wins](https://medium.com/@Jam3/how-we-built-a-playful-webgl-experience-for-100-fwa-wins-12262265548d) by [@ixviii_io](https://twitter.com/ixviii_io) and [@jam3](https://twitter.com/jam3)
 
 Mar 25, 2020 - [Fiomet](https://medium.com/active-theory/fiomet-case-study-9a0180268423) by [@active_theory](https://twitter.com/active_theory)
