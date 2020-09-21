@@ -1,4 +1,5 @@
 # 2020
+
 Sep 9, 2020 - [Adventure Time: Distant Lands — BMO](https://medium.com/@activetheory/adventure-time-distant-lands-bmo-5997687372b7) by [@active_theory](https://twitter.com/active_theory)
 
 May 28, 2020 - [Spotify - Listening Together](https://medium.com/@activetheory/listening-together-2e676f5e7201) by [@active_theory](https://twitter.com/active_theory)
@@ -11,7 +12,9 @@ Jan 24, 2020 - [The turn of the screw trailer](https://lusion.co/work/the-turn-o
 
 Jan 06, 2020 - [MaxMara Bearing Gifts](https://lusion.co/work/maxmara-bearing-gifts) by [@lusionltd](https://twitter.com/lusionltd)
 
+
 # 2019
+
 Dec 30, 2019 - [Akaru 2019](https://tympanus.net/codrops/2019/12/30/case-study-akaru-2019/) by [@ColinPeyrat](https://twitter.com/ColinPeyrat) and [@jfranzese](https://twitter.com/jfranzese_)
 
 Dec 18, 2019 - [Portfolio of Bruno Arizio](https://tympanus.net/codrops/2019/12/18/case-study-portfolio-of-bruno-arizio/) by [@BrunoArizio](https://twitter.com/brunoarizio) and [@lhbzr](https://twitter.com/lhbzr)
@@ -49,6 +52,7 @@ Jan 30, 2019 - [Taotajima.jp WebGL deconstruction](https://medium.com/@akella/ta
 Jan 25, 2019 - [Adult Swim Singles 2018](https://medium.com/@activetheory/adult-swim-singles-2018-case-study-e19349ecbfb3) by [@active_theory](https://twitter.com/active_theory)
 
 Jan 17, 2019 - [Twenty Øne Piløts](https://medium.com/resn/bandit%C3%B8-immersive-experience-f258361dead3) by [@jesper_vos](https://twitter.com/jesper_vos) / [@resn_has_no_i](https://twitter.com/resn_has_no_i) 
+
 
 # 2018
 
@@ -94,8 +98,8 @@ Feb 05, 2018 - [The Ueno 3D Interview: Behind the Scenes](https://loremipsum.uen
 Jan 08, 2018 - [Codevember breakdowns](https://medium.com/@bongiovi015/codevember-breakdowns-part-1-shadow-mapping-f90d05179134) by [@yiwen_lin](https://twitter.com/yiwen_lin)
 
 
-
 # 2017
+
 Dec 09, 2017 - [Land Lines](https://developers.google.com/web/showcase/2016/land-lines) - by [@zachlieberman](https://twitter.com/zachlieberman) / [@google](https://twitter.com/google)
 
 Dec 04, 2017 - [Neon — A WebGL Installation](https://medium.com/@activetheory/neon-a-webgl-installation-fdf540c42152) by [@active_theory](https://twitter.com/active_theory)
@@ -134,10 +138,10 @@ Jan 13, 2017 - [The Nightlight — A VR experience](https://m.makemepulse.co
 
 Jan 10, 2017 - [Night Eyes: case study](https://medium.com/@mad_clem/night-eyes-case-study-19eb54068379#.d5y5ceox2) by [@mad_clem](https://twitter.com/mad_clem)
 
-# 2016
-Dec 26, 2016 - [The Legend of IceCoon case study](https://medium.com/@Samsy/the-legend-of-icecoon-case-study-advanced-webgl-first-part-185742e82429) by [@samsyyyy](https://twitter.com/Samsyyyy)
 
-Dec 22, 2016 - [Case study – Night Eye](http://blog.bongiovi.tw/case-study-night-eye/) by [@yiwen_lin](https://twitter.com/yiwen_lin)
+# 2016
+
+Dec 26, 2016 - [The Legend of IceCoon case study](https://medium.com/@Samsy/the-legend-of-icecoon-case-study-advanced-webgl-first-part-185742e82429) by [@samsyyyy](https://twitter.com/Samsyyyy)
 
 Dec 21, 2016 - [Billie Deer](http://brunoimbrizi.com/unbox/2016/12/billie-deer/) by [@brunoimbrizi](https://twitter.com/brunoimbrizi)
 
@@ -173,7 +177,9 @@ Mar 09, 2016 - [Chrome Music Lab: Making ‘Kandinsky’](https://medium.com/@ac
 
 Jan 25, 2016 - [Neve: WebGL and VR](https://medium.com/@activetheory/neve-webgl-and-vr-d42a25856d67#.rrrba7ih1) by [@active_theory](https://twitter.com/active_theory)
 
+
 # 2015
+
 Dec 20, 2015 - [Camera Game](https://medium.com/@gordonnl/camera-game-8a2b013baf81#.ljwkp3wul) by [@gordonnl](https://twitter.com/gordonnl)
 
 Dec 01, 2015 - [My First Christmas Experiment](http://blog.edankwan.com/post/my-first-christmas-experiment) by [@edankwan](https://twitter.com/edankwan)
@@ -184,14 +190,18 @@ Jul 23, 2015 - [Vitasnella | Full body projection mapping](https://medium.com/@s
 
 May 01, 2015 - [Operation crea carte](http://dataveyes.com/#!/en/case-studies/operation-crea-carte) by [@dataveyes](https://twitter.com/dataveyes)
 
+
 # 2014
+
 Dec 08, 2014 - [Finding Home](https://medium.com/@michaeltheory/finding-home-d0328ca92d21#.y84d0a62t) by [@michaeltheory](https://twitter.com/michaeltheory)
 
 Oct 13, 2014 - [Pablo the Flamingo](https://medium.com/@gordonnl/pablo-the-flamingo-75a21bf8ea12#.l6swlfqz7) by [@gordonnl](https://twitter.com/gordonnl)
 
 Sept 09, 2014 - [Case study of I-Remember.fr](http://blog.edankwan.com/post/case-study-of-i-remember-fr) by [@edankwan](https://twitter.com/edankwan)
 
+
 # 2013
+
 Dec 11, 2013 - [The Front-end of Middle-earth](https://www.html5rocks.com/en/tutorials/casestudies/hobbit-front-end/) by [@inear](https://twitter.com/inear) / [@danielisaksson](https://twitter.com/danielisaksson) / [@northkingdom](https://twitter.com/northkingdom)
 
 Nov 20, 2013 - [The Hobbit Experience](https://www.html5rocks.com/en/tutorials/casestudies/hobbit/) by [@danielisaksson](https://twitter.com/danielisaksson) / [@northkingdom](https://twitter.com/northkingdom)
@@ -202,8 +212,10 @@ Feb 5, 2013 - [Case Study: Find Your Way to Oz](https://www.html5rocks.com/en/tu
 
 
 # 2012
+
 Mar 26, 2012 - [Watercolor Process](https://hi.stamen.com/watercolor-process-3dd5135861fe) by [@grayareaorg](https://twitter.com/grayareaorg)
 
 
 # 2010
+
 Dec 25, 2010 - [Cindermedusae - Making Generative Creatures](http://marcinignac.com/blog/cindermedusae-making-generative-creatures/) by [@marcinignac](https://twitter.com/marcinignac)
