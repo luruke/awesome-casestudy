@@ -1,4 +1,5 @@
 # 2020
+Nov 17, 2020 - [Chile20](https://www.awwwards.com/chile20-by-active-theory-wins-site-of-the-month-october-2020.html) by [@active_theory](https://twitter.com/active_theory)
 
 Oct 25, 2020 - [How to Build a Creative Portfolio with React JS and WebGL](https://lorenzocadamuro.medium.com/how-to-build-a-creative-portfolio-with-react-js-and-webgl-a697869f78c5) by [@lorenzocadamuro](https://twitter.com/lorenzocadamuro)
 
