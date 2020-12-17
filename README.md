@@ -1,13 +1,15 @@
 # 2020
-Dec 9, 2020 - [Centogene Solutions](https://jesper-vos.medium.com/centogene-solutions-c2e5ada41eaf) by [@jesper_vos](https://twitter.com/jesper_vos)
+Dec 17, 2020 - [KODE Sports Club](https://www.awwwards.com/kode-sports-club-by-merci-michel-wins-site-of-the-month-november-2020.html) by [@MerciMichel](https://twitter.com/MerciMichel)
+
+Dec 09, 2020 - [Centogene Solutions](https://jesper-vos.medium.com/centogene-solutions-c2e5ada41eaf) by [@jesper_vos](https://twitter.com/jesper_vos)
 
 Nov 17, 2020 - [Chile20](https://www.awwwards.com/chile20-by-active-theory-wins-site-of-the-month-october-2020.html) by [@active_theory](https://twitter.com/active_theory)
 
 Oct 25, 2020 - [How to Build a Creative Portfolio with React JS and WebGL](https://lorenzocadamuro.medium.com/how-to-build-a-creative-portfolio-with-react-js-and-webgl-a697869f78c5) by [@lorenzocadamuro](https://twitter.com/lorenzocadamuro)
 
-Sep 9, 2020 - [Adventure Time: Distant Lands — BMO](https://medium.com/@activetheory/adventure-time-distant-lands-bmo-5997687372b7) by [@active_theory](https://twitter.com/active_theory)
+Sep 09, 2020 - [Adventure Time: Distant Lands — BMO](https://medium.com/@activetheory/adventure-time-distant-lands-bmo-5997687372b7) by [@active_theory](https://twitter.com/active_theory)
 
-Sep 1, 2020 - [To design and develop an interactive globe](https://stripe.com/blog/globe) by [@narrowd](https://twitter.com/narrowd) and [@stripe](https://twitter.com/stripe)
+Sep 01, 2020 - [To design and develop an interactive globe](https://stripe.com/blog/globe) by [@narrowd](https://twitter.com/narrowd) and [@stripe](https://twitter.com/stripe)
 
 May 28, 2020 - [Spotify - Listening Together](https://medium.com/@activetheory/listening-together-2e676f5e7201) by [@active_theory](https://twitter.com/active_theory)
 
