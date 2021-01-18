@@ -1,5 +1,7 @@
 # 2021
-Jan 15, 2021 - [no-fishing.net Twitter-thread](https://twitter.com/williamapan/status/1350097328988938240) by [@williamapan](https://twitter.com/williamapan)
+Jan 15, 2021 - [no-fishing.net – Twitter-thread](https://twitter.com/williamapan/status/1350097328988938240) by [@williamapan](https://twitter.com/williamapan)
+
+Jan 04, 2021 - [naoz.live – Twitter-thread](https://twitter.com/Dogstudio/status/1346086021939802112) by [@Dogstudio](https://twitter.com/Dogstudio)
 
 # 2020
 Dec 17, 2020 - [KODE Sports Club](https://www.awwwards.com/kode-sports-club-by-merci-michel-wins-site-of-the-month-november-2020.html) by [@MerciMichel](https://twitter.com/MerciMichel)
@@ -8,7 +10,7 @@ Dec 10, 2020 - [https://www.ge.com/innovation-barometer Twitter-thread](https://
 
 Dec 09, 2020 - [Centogene Solutions](https://jesper-vos.medium.com/centogene-solutions-c2e5ada41eaf) by [@jesper_vos](https://twitter.com/jesper_vos)
 
-Nov 20, 2020 - [philippeneveu.com Twitter-thread](https://twitter.com/raphaelameaume/status/1329719040458305539) by [@raphaelameaume](https://twitter.com/raphaelameaume)
+Nov 20, 2020 - [philippeneveu.com – Twitter-thread](https://twitter.com/raphaelameaume/status/1329719040458305539) by [@raphaelameaume](https://twitter.com/raphaelameaume)
 
 Nov 17, 2020 - [Chile20](https://www.awwwards.com/chile20-by-active-theory-wins-site-of-the-month-october-2020.html) by [@active_theory](https://twitter.com/active_theory)
 
@@ -17,6 +19,8 @@ Oct 25, 2020 - [How to Build a Creative Portfolio with React JS and WebGL](https
 Sep 09, 2020 - [Adventure Time: Distant Lands — BMO](https://medium.com/@activetheory/adventure-time-distant-lands-bmo-5997687372b7) by [@active_theory](https://twitter.com/active_theory)
 
 Sep 01, 2020 - [To design and develop an interactive globe](https://stripe.com/blog/globe) by [@narrowd](https://twitter.com/narrowd) and [@stripe](https://twitter.com/stripe)
+
+Jul 26, 2020 - [papilionem.tomorrowland.com – Twitter-thread](https://twitter.com/Dogstudio/status/1287352246708117504) by [@Dogstudio](https://twitter.com/Dogstudio)
 
 May 28, 2020 - [Spotify - Listening Together](https://medium.com/@activetheory/listening-together-2e676f5e7201) by [@active_theory](https://twitter.com/active_theory)
 
