@@ -3,6 +3,8 @@ Jan 21, 2021 - [CineShader VR Review](https://medium.com/lusion-ltd/cineshader-v
 
 Jan 15, 2021 - [no-fishing.net – Twitter-thread](https://twitter.com/williamapan/status/1350097328988938240) by [@williamapan](https://twitter.com/williamapan)
 
+Jan 13, 2021 - [airshifumi.hands.agency – Twitter-thread](https://twitter.com/LodsDorian/status/1349291334759288832) by [@LodsDorian](https://twitter.com/LodsDorian)
+
 Jan 04, 2021 - [naoz.live – Twitter-thread](https://twitter.com/Dogstudio/status/1346086021939802112) by [@Dogstudio](https://twitter.com/Dogstudio)
 
 # 2020
