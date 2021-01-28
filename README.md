@@ -1,4 +1,6 @@
 # 2021
+Jan 27, 2021 - [How To Populate Real-Time Worlds With Thousands Of Animated Characters](https://medium.com/xrlo-extended-reality-lowdown/how-to-populate-real-time-worlds-with-thousands-of-animated-characters-55830e982c9c) by [Ross Beardsall](https://medium.com/@mross_52174)
+
 Jan 21, 2021 - [CineShader VR Review](https://medium.com/lusion-ltd/cineshader-vr-review-43906ef0036c) by [@lusionltd](https://twitter.com/lusionltd)
 
 Jan 15, 2021 - [no-fishing.net – Twitter-thread](https://twitter.com/williamapan/status/1350097328988938240) by [@williamapan](https://twitter.com/williamapan)
