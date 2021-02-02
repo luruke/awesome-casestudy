@@ -1,4 +1,6 @@
 # 2021
+Feb 02, 2021 - [kacper.ch - Twitter-thread](https://twitter.com/lhbizarro/status/1356486742161952770?s=20) by [@lhbizarro](https://twitter.com/lhbizarro)
+
 Jan 27, 2021 - [How To Populate Real-Time Worlds With Thousands Of Animated Characters](https://medium.com/xrlo-extended-reality-lowdown/how-to-populate-real-time-worlds-with-thousands-of-animated-characters-55830e982c9c) by [Ross Beardsall](https://medium.com/@mross_52174)
 
 Jan 21, 2021 - [CineShader VR Review](https://medium.com/lusion-ltd/cineshader-vr-review-43906ef0036c) by [@lusionltd](https://twitter.com/lusionltd)
