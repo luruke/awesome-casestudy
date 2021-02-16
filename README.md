@@ -1,4 +1,6 @@
 # 2021
+Feb 16, 2021 - [Marseille](https://barradeau.com/blog/?p=1208) by [@nicoptere](https://twitter.com/nicoptere)
+
 Feb 11, 2021 - [Huluween: The Screamlands](https://medium.com/active-theory/huluween-the-screamlands-b1324f32ee7d) by [@active_theory](https://twitter.com/active_theory)
 
 Feb 02, 2021 - [kacper.ch 🐦](https://twitter.com/lhbizarro/status/1356486742161952770?s=20) by [@lhbizarro](https://twitter.com/lhbizarro)
