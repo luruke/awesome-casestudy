@@ -34,6 +34,8 @@ Sep 09, 2020 - [Adventure Time: Distant Lands — BMO](https://medium.com/@activ
 
 Sep 01, 2020 - [To design and develop an interactive globe](https://stripe.com/blog/globe) by [@narrowd](https://twitter.com/narrowd) and [@stripe](https://twitter.com/stripe)
 
+Aug 09, 2020 - [Resn’s Pioneer - Corn Revolutionized](https://www.awwwards.com/resns-pioneer-corn-revolutionized-wins-site-of-the-month-july-2020.html) by [@resn_has_no_i](https://twitter.com/resn_has_no_i)
+
 Jul 26, 2020 - [papilionem.tomorrowland.com 🐦](https://twitter.com/Dogstudio/status/1287352246708117504) by [@Dogstudio](https://twitter.com/Dogstudio)
 
 May 28, 2020 - [Spotify - Listening Together](https://medium.com/@activetheory/listening-together-2e676f5e7201) by [@active_theory](https://twitter.com/active_theory)
