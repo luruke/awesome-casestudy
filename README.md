@@ -1,4 +1,6 @@
 # 2021
+Aug 26, 2021 - [The Harmonic State](https://www.awwwards.com/the-harmonic-state-by-active-theory-wins-site-of-the-month-july-2021.html) by [@active_theory](https://twitter.com/active_theory)
+
 Jun 23, 2021 - [The Field](https://medium.com/active-theory/the-field-bbe924426d7f) by [@active_theory](https://twitter.com/active_theory)
 
 May 25, 2021 - [Revisualizer](https://buck.co/research/revisualizer) by [@buck_tv](https://twitter.com/buck_tv)
