@@ -1,6 +1,8 @@
 # 2022
 Apr 29, 2022 - [Plongez dans Lyon - WebGL scene case study](https://martinlaxenaire.medium.com/plongez-dans-lyon-webgl-scene-case-study-947dd8c080bb) by [@webdesign_ml](https://twitter.com/webdesign_ml)
 
+Sep 26, 2022 - [Coastal World](https://mercimichel.medium.com/coastal-world-8f23b945823b) by [@mercimichel](https://twitter.com/mercimichel)
+
 # 2021
 Aug 26, 2021 - [The Harmonic State](https://www.awwwards.com/the-harmonic-state-by-active-theory-wins-site-of-the-month-july-2021.html) by [@active_theory](https://twitter.com/active_theory)
 
